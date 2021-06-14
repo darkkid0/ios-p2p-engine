@@ -50,14 +50,14 @@ $ pod install
 ```
 
 ## 使用方法
-参照 [文档](https://www.cdnbye.com/cn/views/ios/usage.html)
+参照 [文档](https://www.cdnbye.com/cn/views/ios/v1/usage.html)
 
 ## 系统要求
 支持iOS 10.0以上系统。
 <br>注意：本SDK暂时不支持bitcode，在发布前请在xcode关闭bitcode。
 
 ## API文档
-参照 [API.md](https://www.cdnbye.com/cn/views/ios/API.html)
+参照 [API.md](https://www.cdnbye.com/cn/views/ios/v1/API.html)
 
 ## 反馈及意见
 
