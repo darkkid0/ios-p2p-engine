@@ -50,14 +50,14 @@ $ pod install
 ```
 
 ## Usage
-See [document](https://www.hdtvcloud.com/en/views/ios/usage.html)
+See [document](https://www.hdtvcloud.com/en/views/ios/v2/usage.html)
 
 ## Requirements
 This library requires iOS 10.0+.
 <br>NOTICE: This framework doesn’t support bitcode currently.
 
 ## API and Configuration
-See [API.md](https://www.hdtvcloud.com/en/views/ios/API.html)
+See [API.md](https://www.hdtvcloud.com/en/views/ios/v2/API.html)
 
 ## Issue & Feature Request
 - If you found a bug, open an issue.
